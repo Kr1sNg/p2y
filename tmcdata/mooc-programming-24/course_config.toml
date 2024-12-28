@@ -87,3 +87,239 @@ checksum = "cdef2d90cd583cad72da8931d32d53e5"
 [exercises.part02-22_working_with_numbers]
 id = 228726
 checksum = "19f787b2ce72845e9828e2ee84fe483d"
+
+[exercises.part03-01_print_numbers]
+id = 228970
+checksum = "d98984a998bf85093b5952954fc4d6fa"
+
+[exercises.part03-02_countdown]
+id = 228995
+checksum = "a14726951e5a5b5437aef6a9d83ddcd9"
+
+[exercises.part03-03_numbers]
+id = 228981
+checksum = "b692d9ced0820a33531141e7c61e5d3d"
+
+[exercises.part03-04_powers_of_two]
+id = 228982
+checksum = "452bd5d7fef49f78778f6bb6b7352a56"
+
+[exercises.part03-05_powers_of_base_n]
+id = 228971
+checksum = "5721b182123283d394cb7846822228c5"
+
+[exercises.part03-06_consecutive_sum_v1]
+id = 228987
+checksum = "2cc4221d9b7158d27a42aa04e8877a35"
+
+[exercises.part03-07_consecutive_sum_v2]
+id = 228975
+checksum = "e0cce1507ab1686836451231ee5a239f"
+
+[exercises.part03-08_string_multiplied]
+id = 228992
+checksum = "50b33164b5ab2df3e22c819a155edb3e"
+
+[exercises.part03-09_longer_string]
+id = 228980
+checksum = "37c8c137354dc9545c9930251475ffb6"
+
+[exercises.part03-10_end_to_beginning]
+id = 228998
+checksum = "e6c6ffbea3902d9f067c8298761eae72"
+
+[exercises.part03-11_second_and_second_to_last]
+id = 228968
+checksum = "62e85926c12571826332758fbdc47b06"
+
+[exercises.part03-12_line_of_hashes]
+id = 228973
+checksum = "f640c0306981670c079bb70f1e2b6c42"
+
+[exercises.part03-13_rectangle_of_hashes]
+id = 228978
+checksum = "648254f7e88c6e22c99985f6dd1d88c0"
+
+[exercises.part03-14_underlining]
+id = 228983
+checksum = "aae1085c06cbd108f5d7229169aa5a80"
+
+[exercises.part03-15_right_aligned]
+id = 228996
+checksum = "1bcd4047d6892830e70500f6f0068105"
+
+[exercises.part03-16_framed_word]
+id = 228989
+checksum = "0312e78cbe22da18a265d036778f0478"
+
+[exercises.part03-17_substrings_part_1]
+id = 228997
+checksum = "37d11e2ef6dd779dd1c3849c0598369f"
+
+[exercises.part03-18_substrings_part_2]
+id = 228984
+checksum = "035802cb85e5072aa1775bbca4610d0f"
+
+[exercises.part03-19_does_it_contain_vowels]
+id = 228972
+checksum = "3c9c2ab5c5c74fcb325d86a220fac85b"
+
+[exercises.part03-20_find_first_substring]
+id = 228979
+checksum = "e080db0c13e68c6c9e2c5565dfbcb59e"
+
+[exercises.part03-21_find_all_substrings]
+id = 228966
+checksum = "d4de6bf81155679d8559dc0579d48fa7"
+
+[exercises.part03-22_second_occurrence]
+id = 228977
+checksum = "9ecdf70727fc1dfe5d691b95f9bf6a68"
+
+[exercises.part03-23_multiplication]
+id = 228993
+checksum = "4fe8ee70d8834d9bd69311380d442200"
+
+[exercises.part03-24_first_letters_of_words]
+id = 228988
+checksum = "1377974641d7f126930f281da3b9e95e"
+
+[exercises.part03-25_factorial]
+id = 228986
+checksum = "0728831a1538771c1c32521345d23a06"
+
+[exercises.part03-26_flip_the_pairs]
+id = 228969
+checksum = "41025258a740bcc638d7ff3a02e58934"
+
+[exercises.part03-27_taking_turns]
+id = 228976
+checksum = "a65c4d123e743d01201a28be50672032"
+
+[exercises.part03-28_seven_brothers]
+id = 228990
+checksum = "c9e278653ee4f158420ac27589595150"
+
+[exercises.part03-29_first_character]
+id = 228994
+checksum = "b5d71c0e3cd31acd902bb226fc372b4f"
+
+[exercises.part03-30_mean]
+id = 228991
+checksum = "8367381f5f691f173d48ff1b209bee44"
+
+[exercises.part03-31_print_many_times]
+id = 228974
+checksum = "c48820256528844649224c392fcf4fcc"
+
+[exercises.part03-32_square_of_hashes]
+id = 228967
+checksum = "0e7f019ba79da32f68ee36b5f06e7ee5"
+
+[exercises.part03-33_chessboard]
+id = 228965
+checksum = "7675d4aaca464acc660e4238db6d4ea6"
+
+[exercises.part03-34_word_squared]
+id = 228985
+checksum = "0e6a2ffcf604f2f71c1f64e5a1842317"
+
+[exercises.part05-14_times_ten]
+id = 228770
+checksum = "971fea5d40fea666a02a0308d62387b7"
+
+[exercises.part05-15_factorials]
+id = 228773
+checksum = "4d9f54a425e3a67e38590b5dbb01f3a9"
+
+[exercises.part05-16_histogram]
+id = 228756
+checksum = "2481bde05b6d22b5319c8e960e52a440"
+
+[exercises.part05-17_phone_book_v1]
+id = 228762
+checksum = "0648d4f9b1a7b5e73ef4753ae819b1a6"
+
+[exercises.part05-18_phone_book_v2]
+id = 228764
+checksum = "8f810c22fdd0548f27303234847c94b4"
+
+[exercises.part05-19_invert_dictionary]
+id = 228754
+checksum = "9d7be9e7653cc54a47f58b06e9b22baa"
+
+[exercises.part05-20_numbers_spelled_out]
+id = 228765
+checksum = "e35d8671dbc20736f65063d672f88f85"
+
+[exercises.part05-21_movie_database]
+id = 228759
+checksum = "9662cac645d8335994fe842be6d101c0"
+
+[exercises.part05-22_find_movies]
+id = 228758
+checksum = "5f7310035359bed7b9bbfc90c8e19ac6"
+
+[exercises.part05-23_create_tuple]
+id = 228768
+checksum = "4493c2d1f146469d8ddfa3f48bfa278d"
+
+[exercises.part05-24_oldest_person]
+id = 228755
+checksum = "34d827930b2ba8e29f5914c24b04a9b7"
+
+[exercises.part05-25_older_people]
+id = 228776
+checksum = "dd08c2cbd9a60168a0ea077c9f3901d1"
+
+[exercises.part05-26_student_database]
+id = 228775
+checksum = "2340604c86baff1659158177ee516486"
+
+[exercises.part05-27_letter_square]
+id = 228778
+checksum = "43f34ab9946666d5c11ccf2e9a584854"
+
+[exercises.part06-01_largest_number]
+id = 228875
+checksum = "128f64f61b34cdeec87708de88a4f9f2"
+
+[exercises.part06-02_fruit_market]
+id = 228872
+checksum = "dc40a9c36ce4038ee8100bf5498661dd"
+
+[exercises.part06-03_matrix]
+id = 228876
+checksum = "4ca789bffb78151c36976c7ef8309757"
+
+[exercises.part06-04_course_grading_part_1]
+id = 228871
+checksum = "f35fad9f23560cad46fa224a80b946bc"
+
+[exercises.part06-05_course_grading_part_2]
+id = 228883
+checksum = "9d66134f9f7115117d8efec795ea30f1"
+
+[exercises.part06-06_course_grading_part_3]
+id = 228881
+checksum = "e65f42cdd26f9a438b783c494644d201"
+
+[exercises.part06-07_spellchecker]
+id = 228889
+checksum = "088b17d99e1c2c5b09593131a9c0d6cd"
+
+[exercises.part06-08_recipe_search]
+id = 228882
+checksum = "4d9a4ab2e3b1b7fe0ceddac2318e05e2"
+
+[exercises.part06-09_city_bikes]
+id = 228885
+checksum = "d40a7c30e1a54b037676efbfd086b130"
+
+[exercises.part06-10_inscription]
+id = 228877
+checksum = "a15aa87ce7179f4985a59b911cc05f1d"
+
+[exercises.part06-11_diary]
+id = 228879
+checksum = "bd775e74ffbf5f33d346ce56b26c47a2"
