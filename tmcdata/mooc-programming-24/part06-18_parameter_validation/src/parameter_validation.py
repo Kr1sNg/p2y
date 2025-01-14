@@ -6,6 +6,4 @@ def new_person(name: str, age: int):
 		raise ValueError("Invalid argument value for age: " + str(age))
 	return (name, age)
 
-# print(new_person("Tom", 12))
-	
-	
+print(new_person("TomLimon", 12))

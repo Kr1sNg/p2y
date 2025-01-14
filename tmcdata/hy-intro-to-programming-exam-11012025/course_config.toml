@@ -1,0 +1,13 @@
+course = "hy-intro-to-programming-exam-11012025"
+
+[exercises.Exam11012025-Exercise1]
+id = 277219
+checksum = "bab3dfdb65c3adba307378f88eafd93e"
+
+[exercises.Exam11012025-Exercise2]
+id = 277221
+checksum = "8411fa3972c2820ce6799d7f7382f0b4"
+
+[exercises.Exam11012025-Exercise3]
+id = 277220
+checksum = "f188a1e44d1c24c00d68c90e8f33f76f"

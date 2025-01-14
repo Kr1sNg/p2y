@@ -703,3 +703,7 @@ checksum = "12b0968c95c2ca1ff2446226bac7361a"
 [exercises.part07-18_own_programming_language]
 id = 228958
 checksum = "85f451181b069b4e31f6c8b45b800cde"
+
+[exercises.part08-12_number_stats]
+id = 228744
+checksum = "7b15d1eb9de2227eea1a319ac5a9b71b"
