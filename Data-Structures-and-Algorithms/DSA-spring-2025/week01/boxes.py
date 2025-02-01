@@ -43,3 +43,26 @@ if __name__ == "__main__":
     print(min_count(100, 99)) # 2
     print(min_count(5, 5)) # 1
     print(min_count(5, 6)) # 1
+
+'''
+One solution is to use a loop that fills the boxes with products until all products have been packed:
+
+def min_count(product_count, box_size):
+    box_count = 0
+
+    while product_count > 0:
+        box_count += 1
+        product_count -= box_size
+
+    return box_count
+
+    
+The number of boxes can also be computed directly as follows:
+
+import math
+
+def min_count(product_count, box_size):
+    return math.ceil(product_count / box_size)
+    
+Here math.ceil rounds the value up to the nearest integer so that the formula works even if the last box is only partially filled.
+'''
