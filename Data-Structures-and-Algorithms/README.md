@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-For anyone interested in Computer and Data Science and/or wants to advance programming skills, this is a highly recommended DSA course from the University of Helsinki :joy:
+For anyone interested in Computer and Data Science and/or wants to advance programming skills, this is a highly recommended DSA course from the University of Helsinki 😃:
 
 - *Prerequisites:* Basic of programming and mathematics
 - *Documentation language:* English
