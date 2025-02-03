@@ -128,10 +128,6 @@ checksum = "f9aa394f6b4273e74ab009b6655cf50b"
 id = 228716
 checksum = "47317a44befc24d179d99ddcff471bce"
 
-[exercises.part02-02_number_of_characters]
-id = 228728
-checksum = "d6b24ad4868cfbc82f1437a72ff405be"
-
 [exercises.part02-03_typecasting]
 id = 228735
 checksum = "48e3fe3fcb8a0b41c9142e71270ead55"

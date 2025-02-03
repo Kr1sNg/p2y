@@ -7,7 +7,6 @@ class PhoneBook:
         if not name in self.__persons:
             # add a new dictionary entry with an empty list for the numbers
             self.__persons[name] = []
-
         self.__persons[name].append(number)
 
     def get_numbers(self, name: str):
@@ -15,6 +14,11 @@ class PhoneBook:
             return None
         return self.__persons[name]
 
+    def get_name(self, number: str):
+        for name, phones in self.__persons.items():
+            if number in phones:
+                return name
+        return None
 
     def all_entries(self):
         return self.__persons
@@ -28,7 +32,7 @@ class FileHandler():
         with open(self.__filename) as f:
             for line in f:
                 parts = line.strip().split(';')
-                name, *numbers = parts
+                name, *numbers = parts #*num means that this last variable should contains all the remain in the list
                 names[name] = numbers
         return names
 
@@ -53,6 +57,7 @@ class PhoneBookApplication:
         print("0 exit")
         print("1 add entry")
         print("2 search")
+        print("3 search by number")
 
     def add_entry(self):
         name = input("name: ")
@@ -67,6 +72,14 @@ class PhoneBookApplication:
             return
         for number in numbers:
             print(number)
+
+    def search_bynum(self):
+        num = input("number: ")
+        name = self.__phonebook.get_name(num)
+        if name == None:
+            print("unknown number")
+            return
+        print(name)
 
     def exit(self):
         self.__filehandler.save_file(self.__phonebook.all_entries())
@@ -84,9 +97,16 @@ class PhoneBookApplication:
                 self.add_entry()
             elif command == "2":
                 self.search()
+            elif command == "3":
+                self.search_bynum()
             else:
                 self.help()
 
 # when you run the tests, nothing apart from these two lines should be placed in the main function, outside any class definitions 
 application = PhoneBookApplication()
 application.execute()
+# if __name__ == "__main__":
+#     phonebook = PhoneBook()
+#     phonebook.add_number("Eric", "02-123456")
+#     print(phonebook.get_numbers("Eric"))
+#     print(phonebook.get_numbers("Emily"))
