@@ -39,13 +39,13 @@ if __name__ == "__main__":
 
 '''
 
+
 def find_rounds(numbers):
     # TODO
     i = 0
-    while numbers[i]:
-        j = i + 1
-        while numbers[j]:
-            if numbers[i] < numbers[j]
+    min = min(numbers)
+    
+    
 
 if __name__ == "__main__":
     print(find_rounds([1, 2, 3, 4]))
