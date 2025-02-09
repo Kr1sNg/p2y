@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # def balanced_brackets(my_string: str):
 #     if len(my_string) == 0:
 #         return True
@@ -59,3 +60,13 @@ if __name__ == "__main__":
 
     print(balanced_brackets("((x)"))
     print(balanced_brackets("x[[]"))
+=======
+def balanced_brackets(my_string: str):
+    if len(my_string) == 0:
+        return True
+    if not (my_string[0] == '(' and my_string[-1] == ')'):
+        return False
+
+    # remove first and last character
+    return balanced_brackets(my_string[1:-1])
+>>>>>>> 3e7d1c54b079a3a498cf03351408be9bb4035f1c

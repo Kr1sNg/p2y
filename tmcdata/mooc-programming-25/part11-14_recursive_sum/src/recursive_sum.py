@@ -1,4 +1,5 @@
 # WRITE YOUR SOLUTION HERE:
+<<<<<<< HEAD
 
 def recursive_sum(number: int):
 	if number <= 1:
@@ -11,3 +12,5 @@ if __name__ == "__main__":
 
 	print(recursive_sum(5))
 	print(recursive_sum(10))
+=======
+>>>>>>> 3e7d1c54b079a3a498cf03351408be9bb4035f1c

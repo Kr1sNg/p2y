@@ -39,8 +39,10 @@ if __name__ == "__main__":
 
 '''
 
+
 def find_rounds(numbers):
     # TODO
+<<<<<<< HEAD
 
     total = []
     next_num = 1
@@ -71,6 +73,12 @@ def find_rounds(numbers):
 #         result.append(round)
 
 #     return result
+=======
+    i = 0
+    min = min(numbers)
+    
+    
+>>>>>>> 3e7d1c54b079a3a498cf03351408be9bb4035f1c
 
 if __name__ == "__main__":
     print(find_rounds([1, 2, 3, 4]))
