@@ -107,3 +107,23 @@ checksum = "2d92548a10df72760f7c2960b4be8bbb"
 [exercises.part10-12_course_records]
 id = 272882
 checksum = "91b224b1823a1142dc1d57cbde900236"
+
+[exercises.part11-12_most_common_words]
+id = 272763
+checksum = "4fc32fa9f8bf47c341a55c4d3717a174"
+
+[exercises.part11-13_add_numbers_to_list]
+id = 272775
+checksum = "e6226316f83a082d991e092284aa720a"
+
+[exercises.part11-14_recursive_sum]
+id = 272767
+checksum = "2f280dc698875bf799a65abd90f3a63e"
+
+[exercises.part11-15_balanced_brackets]
+id = 272778
+checksum = "41d56498626fbe6122f101166d772f35"
+
+[exercises.part11-16_greatest_node]
+id = 272779
+checksum = "5cca20881ca5fa9afd7ef04b63ea9eb0"

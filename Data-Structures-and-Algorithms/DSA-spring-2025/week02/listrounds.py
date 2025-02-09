@@ -41,11 +41,36 @@ if __name__ == "__main__":
 
 def find_rounds(numbers):
     # TODO
-    i = 0
-    while numbers[i]:
-        j = i + 1
-        while numbers[j]:
-            if numbers[i] < numbers[j]
+
+    total = []
+    next_num = 1
+    while next_num <= max(numbers):
+        round = []
+        i = 0
+        while (i < len(numbers)):
+            if numbers[i] == next_num:
+                round.append(next_num)
+                next_num += 1
+            i += 1
+        total.append(round)
+    return total
+
+# ANALYSIS
+# def find_rounds(numbers):
+#     n = len(numbers)
+
+#     result = []
+#     current = 1
+
+#     while current <= n:
+#         round = []
+#         for number in numbers:
+#             if number == current:
+#                 round.append(number)
+#                 current += 1
+#         result.append(round)
+
+#     return result
 
 if __name__ == "__main__":
     print(find_rounds([1, 2, 3, 4]))
