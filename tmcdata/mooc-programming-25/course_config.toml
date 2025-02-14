@@ -108,8 +108,6 @@ checksum = "2d92548a10df72760f7c2960b4be8bbb"
 id = 272882
 checksum = "91b224b1823a1142dc1d57cbde900236"
 
-<<<<<<< HEAD
-=======
 [exercises.part11-01_square_roots]
 id = 272771
 checksum = "aa89bedc5e9cc11c587b93e539f8b1c2"
@@ -154,7 +152,6 @@ checksum = "18a35ddac39ea62be37dea9bd0734312"
 id = 272772
 checksum = "7e3f1f525627981c335ec23aba5734b2"
 
->>>>>>> 3e7d1c54b079a3a498cf03351408be9bb4035f1c
 [exercises.part11-12_most_common_words]
 id = 272763
 checksum = "4fc32fa9f8bf47c341a55c4d3717a174"
@@ -174,8 +171,6 @@ checksum = "41d56498626fbe6122f101166d772f35"
 [exercises.part11-16_greatest_node]
 id = 272779
 checksum = "5cca20881ca5fa9afd7ef04b63ea9eb0"
-<<<<<<< HEAD
-=======
 
 [exercises.part11-17_bosses_and_subordinates]
 id = 272761
@@ -188,4 +183,3 @@ checksum = "2cd3d260a4e0da79abde62bb82b8d5c0"
 [exercises.part11-19_order_book_application]
 id = 272777
 checksum = "d45965a0805ce4c77715e8f53925b4ad"
->>>>>>> 3e7d1c54b079a3a498cf03351408be9bb4035f1c
