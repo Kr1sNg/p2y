@@ -43,13 +43,13 @@ while True:
 			if event.key == pygame.K_DOWN:
 				to_down = False
 	
-	if to_right:
+	if to_right and x <= 638 - robot.get_width():
 		x += 2
-	if to_left:
+	if to_left and x >= 2:
 		x -= 2
-	if to_up:
+	if to_up and y >= 2:
 		y -= 2
-	if to_down:
+	if to_down and y <= 478 - robot.get_height():
 		y += 2
 	
 

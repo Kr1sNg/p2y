@@ -60,6 +60,7 @@ def names_of_students(attempts: list):
 def course_names(attempts: list):
     courses = list(map(lambda course: course.course_name, attempts))
     return sorted(set(courses))
+    # return sorted(courses)
 
 if __name__== "__main__":
     s1 = CourseAttempt("Peter Python", "Introduction to Programming", 3)
