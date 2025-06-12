@@ -183,3 +183,27 @@ checksum = "2cd3d260a4e0da79abde62bb82b8d5c0"
 [exercises.part11-19_order_book_application]
 id = 272777
 checksum = "d45965a0805ce4c77715e8f53925b4ad"
+
+[exercises.part12-01_remaining_stock]
+id = 272950
+checksum = "9af0113977aed944987d99f53f5ce7e7"
+
+[exercises.part12-02_seasons]
+id = 272953
+checksum = "7930c36198382db36cfdcb631bae4772"
+
+[exercises.part12-03_ratings]
+id = 272957
+checksum = "822e1952edb4c40ced4ca77d9f47942f"
+
+[exercises.part12-04_climbing_route]
+id = 272948
+checksum = "f21c3b63d5a7715c4e9d9d5ad8f24c28"
+
+[exercises.part13-01_four_robots]
+id = 272940
+checksum = "3a0cc17c8e7ea5975ac1b824304d4e40"
+
+[exercises.part13-02_robots_row]
+id = 272931
+checksum = "2ee62a778cc8565f47f26fddb99b0c9c"
